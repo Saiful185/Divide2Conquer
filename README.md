@@ -7,15 +7,17 @@ This repository contains codes on the implementation of Divide2Conquer (D2C), a 
 
 If you find this work useful in your research, please consider citing our paper:
 
-@INPROCEEDINGS{siddiqui2024d2c,\
-  author={Bari Siddiqui, Md. Saiful and Mohaiminul Islam, Md and Rabiul Alam, Md. Golam},\
-  booktitle={2024 IEEE International Conference on Big Data (BigData)},\
-  title={Divide2Conquer (D2C): A Decentralized Approach Towards Overfitting Remediation in Deep Learning},\
-  year={2024},\
-  volume={},\
-  number={},\
-  pages={1458-1463},\
+```bibtex
+@INPROCEEDINGS{siddiqui2024d2c,
+  author={Bari Siddiqui, Md. Saiful and Mohaiminul Islam, Md and Rabiul Alam, Md. Golam},
+  booktitle={2024 IEEE International Conference on Big Data (BigData)},
+  title={Divide2Conquer (D2C): A Decentralized Approach Towards Overfitting Remediation in Deep Learning},
+  year={2024},
+  volume={},
+  number={},
+  pages={1458-1463},
   doi={10.1109/BigData62323.2024.10826082}}
+```
 
 ---
 
